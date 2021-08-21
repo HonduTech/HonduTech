@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HonduTech
+- 👀 I’m interested in Developer :)
+- 🌱 I’m currently learning Java/Nodejs/
+- 📫 How to reach me Discord HonduTech#5284
